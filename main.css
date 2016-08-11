@@ -1,0 +1,25 @@
+body {
+    background: url(http://imgmr.com/wp-content/uploads/2016/06/Pok%C3%A9mon-Stadium.jpg) no-repeat center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+}
+
+.column-wrapper {
+    width: 100%;
+}
+
+.column {
+    width: 30%;
+    height: 300px;
+    display: inline-block;
+    max-width: 300px;
+    max-height: 300px;
+    overflow: hidden;
+}
+
+img {
+    width: 200px;
+}
